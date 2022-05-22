@@ -153,14 +153,14 @@ li {
   line-height: 24px;
 }
 /* Секция Чем Мы занимаемся */
-.ourwork-titel {
+.team-titel {
   color: var(--title-text-color);
 }
 /* Секция Наша команда */
-.ourteam-titel {
+.team-titel {
   color: var(--title-text-color);
 }
-.ourteam-name {
+.team-name {
   font-weight: 500;
   font-size: 16px;
   line-height: 19px;
@@ -168,7 +168,7 @@ li {
   letter-spacing: 0.03em;
   color: var(--title-text-color);
 }
-.ourteam-prof {
+.team-prof {
   font-size: 16px;
   line-height: 19px;
   text-align: center;
@@ -178,7 +178,7 @@ li {
 /* Секция страницы Portfolio */
 /* Основной контент страницы */
 /* Навигация по проектам */
-.service-button {
+.filter-button {
   font-weight: 500;
   font-size: 16px;
   line-height: 26px;
@@ -187,20 +187,20 @@ li {
   color: var(--title-text-color);
   background-color: #f5f4fa;
 }
-.service-button:hover,
-.service-button:focus {
+.filter-button:hover,
+.filter-button:focus {
   color: var(--button-text-color);
   background-color: #2196f3;
 }
 /* Секция Наши проекты */
-.ourprоj-title {
+.port-title {
   font-weight: 700;
   font-size: 18px;
   line-height: 36px;
   letter-spacing: 0.06em;
   color: var(--title-text-color);
 }
-.ourprоj-text {
+.port-text {
   font-size: 16px;
   line-height: 30px;
   letter-spacing: 0.03em;
