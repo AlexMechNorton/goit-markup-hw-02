@@ -153,11 +153,11 @@ li {
   line-height: 1.71;
 }
 /* Секция Чем Мы занимаемся */
-.team-titel {
+.service-title {
   color: var(--title-text-color);
 }
 /* Секция Наша команда */
-.team-titel {
+.team-title {
   color: var(--title-text-color);
 }
 .team-name {
