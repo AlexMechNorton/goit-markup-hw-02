@@ -24,7 +24,7 @@ li {
 .title-seclion {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.67;
+  line-height: 1.68;
   text-align: center;
   letter-spacing: 0.03em;
 }
@@ -157,6 +157,9 @@ li {
   color: var(--title-text-color);
 }
 /* Секция Наша команда */
+.team {
+  background-color: #f5f4fa;
+}
 .team-title {
   color: var(--title-text-color);
 }
